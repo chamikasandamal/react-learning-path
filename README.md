@@ -32,8 +32,13 @@
 ## Nested funcitons
   - https://www.youtube.com/watch?v=3a0I8ICR1Vg
 ## Fist application
+
 ## Components
+ - https://www.youtube.com/watch?v=Y2hgEGPzTZY
+ - [Function Components](https://www.youtube.com/watch?v=Cla1WwguArA)
+ - [Class Components](https://www.youtube.com/watch?v=lnV34uLEzis)
 ## Props
+ - https://www.youtube.com/watch?v=m7OWXtbiXX8
 ## Events
 ## Routing
 ## Scoped styles
