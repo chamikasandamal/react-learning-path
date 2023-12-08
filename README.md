@@ -22,12 +22,15 @@
  - https://www.youtube.com/watch?v=uVwtVBpw7RQ
 ## Next js
  - https://www.youtube.com/watch?v=ZVnjOPwW4ZA
-
+ - https://virtusa.udemy.com/course/nextjs-react-the-complete-guide/learn/lecture/41160682#overview
 ## Imports exports
-## Functions operators
+ - https://www.youtube.com/watch?v=hY_6rYyniQM
+## Functions
+ - https://www.youtube.com/watch?v=FOD408a0EzU
 ## Arrow functions
+ - https://www.youtube.com/watch?v=h33Srr5J9nY
 ## Nested funcitons
- 
+  - https://www.youtube.com/watch?v=3a0I8ICR1Vg
 ## Fist application
 ## Components
 ## Props
@@ -37,6 +40,8 @@
 ## Handling forms
 ## Data fetch
 ## Hooks
+   - https://www.youtube.com/watch?v=TNhaISOUy6Q
+   - https://www.youtube.com/watch?v=O6P86uwfdR0
 ## States
  
 ## Redux
