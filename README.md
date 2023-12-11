@@ -55,7 +55,30 @@
  - https://www.youtube.com/watch?v=GTmjthNvrxY
  - https://www.youtube.com/watch?v=NEYrSUM4Umw
  - https://www.youtube.com/watch?v=x9UEDRbLhJE
-## Hooks
+## Hooks 
+### State Hooks 
+ - useState
+   - https://www.youtube.com/watch?v=O6P86uwfdR0
+ - useReducer
+### Context Hooks 
+ - useContext 
+### Ref Hooks 
+ - useRef
+ - useImperativeHandle
+### Effect Hooks 
+ - useEffect
+   - https://www.youtube.com/watch?v=0ZJgIjIuY7U
+ - useLayoutEffect
+ - useInsertionEffect
+### Performance Hooks 
+ - useMemo
+ - useCallback
+ - useTransition
+ - useDeferredValue
+### Resource Hooks 
+### Other Hooks 
+### Your own Hooks 
+
  - https://courses.webdevsimplified.com/react-hooks-simplified
  - https://www.youtube.com/watch?v=TNhaISOUy6Q
  - https://www.youtube.com/watch?v=O6P86uwfdR0
