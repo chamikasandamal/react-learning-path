@@ -39,15 +39,18 @@
  - [Class Components](https://www.youtube.com/watch?v=lnV34uLEzis)
 ## Props
  - https://www.youtube.com/watch?v=m7OWXtbiXX8
+## States
+ - https://www.youtube.com/watch?v=IYvD9oBCuJI
 ## Events
+ - https://www.youtube.com/watch?v=Znqv84xi8Vs
 ## Routing
+ 
 ## Scoped styles
 ## Handling forms
 ## Data fetch
 ## Hooks
    - https://www.youtube.com/watch?v=TNhaISOUy6Q
    - https://www.youtube.com/watch?v=O6P86uwfdR0
-## States
  
 ## Redux
 ## Creating Store
