@@ -47,11 +47,18 @@
 ## Routing
  - https://www.youtube.com/watch?v=Ul3y1LXxzdU
 ## Scoped styles
+ - https://www.youtube.com/watch?v=ZawAwPYrxGA
 ## Handling forms
+ - https://www.youtube.com/watch?v=7Vo_VCcWupQ
+ - https://www.youtube.com/watch?v=CT-72lTXdPg
 ## Data fetch
+ - https://www.youtube.com/watch?v=GTmjthNvrxY
+ - https://www.youtube.com/watch?v=NEYrSUM4Umw
+ - https://www.youtube.com/watch?v=x9UEDRbLhJE
 ## Hooks
-   - https://www.youtube.com/watch?v=TNhaISOUy6Q
-   - https://www.youtube.com/watch?v=O6P86uwfdR0
+ - https://courses.webdevsimplified.com/react-hooks-simplified
+ - https://www.youtube.com/watch?v=TNhaISOUy6Q
+ - https://www.youtube.com/watch?v=O6P86uwfdR0
  
 ## Redux
 ## Creating Store
