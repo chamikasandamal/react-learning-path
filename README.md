@@ -58,27 +58,48 @@
 ## Hooks 
 ### State Hooks 
  - useState
+   - https://react.dev/reference/react/useState
    - https://www.youtube.com/watch?v=O6P86uwfdR0
  - useReducer
+   - https://react.dev/reference/react/useReducer
 ### Context Hooks 
- - useContext 
+ - useContext
+   - https://react.dev/reference/react/useContext
 ### Ref Hooks 
  - useRef
+   - https://react.dev/reference/react/useRef
  - useImperativeHandle
+   - https://react.dev/reference/react/useImperativeHandle
 ### Effect Hooks 
  - useEffect
+   - https://react.dev/reference/react/useEffect
    - https://www.youtube.com/watch?v=0ZJgIjIuY7U
  - useLayoutEffect
+   - https://react.dev/reference/react/useLayoutEffect
  - useInsertionEffect
+   - https://react.dev/reference/react/useInsertionEffect
 ### Performance Hooks 
  - useMemo
+   - https://react.dev/reference/react/useMemo
  - useCallback
+   - https://react.dev/reference/react/useCallback
  - useTransition
+   - https://react.dev/reference/react/useTransition
  - useDeferredValue
+   - https://react.dev/reference/react/useDeferredValue
 ### Resource Hooks 
+ - use
+   - https://react.dev/reference/react/use
 ### Other Hooks 
-### Your own Hooks 
-
+ - useDebugValue
+   - https://react.dev/reference/react/useDebugValue
+ - useId
+   - https://react.dev/reference/react/useId
+ - useSyncExternalStore
+   - https://react.dev/reference/react/useSyncExternalStore
+### Custom Hooks 
+ - https://react.dev/learn/reusing-logic-with-custom-hooks
+   
  - https://courses.webdevsimplified.com/react-hooks-simplified
  - https://www.youtube.com/watch?v=TNhaISOUy6Q
  - https://www.youtube.com/watch?v=O6P86uwfdR0
