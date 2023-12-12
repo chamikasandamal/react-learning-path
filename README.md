@@ -21,9 +21,7 @@
 
 ## What is nodejs
  - https://www.youtube.com/watch?v=uVwtVBpw7RQ
-## Next js
- - https://www.youtube.com/watch?v=ZVnjOPwW4ZA
- - https://virtusa.udemy.com/course/nextjs-react-the-complete-guide/learn/lecture/41160682#overview
+
 ## Imports exports
  - https://www.youtube.com/watch?v=hY_6rYyniQM
 ## Functions
@@ -118,12 +116,11 @@
  - https://www.youtube.com/watch?v=TNhaISOUy6Q
  
 ## Redux
-## Creating Store
-## Actions
-## Payloads
+ - https://www.youtube.com/watch?v=5yEG6GhoJBs
  
- 
-## SSR
-## API routes
+ ## Next js
+ - https://www.youtube.com/watch?v=ZVnjOPwW4ZA
+ - https://virtusa.udemy.com/course/nextjs-react-the-complete-guide/learn/lecture/41160682#overview
+
 ## Deployment
 ## Debug
