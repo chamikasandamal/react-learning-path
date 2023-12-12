@@ -96,22 +96,26 @@
    - https://www.youtube.com/watch?v=N5R6NL3UE7I
  - useDeferredValue
    - https://react.dev/reference/react/useDeferredValue
+   - https://www.youtube.com/watch?v=jCGMedd6IWA
 ### Resource Hooks 
  - use
    - https://react.dev/reference/react/use
+   - https://www.youtube.com/watch?v=0HJPmvJWVBg
 ### Other Hooks 
  - useDebugValue
    - https://react.dev/reference/react/useDebugValue
+   - https://www.youtube.com/watch?v=pTF86K8JZBQ
  - useId
    - https://react.dev/reference/react/useId
+   - https://www.youtube.com/watch?v=_vwCKV7f_eA
  - useSyncExternalStore
    - https://react.dev/reference/react/useSyncExternalStore
 ### Custom Hooks 
  - https://react.dev/learn/reusing-logic-with-custom-hooks
-   
+ - https://www.youtube.com/watch?v=6ThXsUwLWvc
+### Other 
  - https://courses.webdevsimplified.com/react-hooks-simplified
  - https://www.youtube.com/watch?v=TNhaISOUy6Q
- - https://www.youtube.com/watch?v=O6P86uwfdR0
  
 ## Redux
 ## Creating Store
