@@ -110,21 +110,27 @@
    - https://www.youtube.com/watch?v=_vwCKV7f_eA
  - useSyncExternalStore
    - https://react.dev/reference/react/useSyncExternalStore
+     
 ### Custom Hooks 
  - https://react.dev/learn/reusing-logic-with-custom-hooks
  - https://www.youtube.com/watch?v=6ThXsUwLWvc
+   
 ### Other 
  - https://courses.webdevsimplified.com/react-hooks-simplified
  - https://www.youtube.com/watch?v=TNhaISOUy6Q
  
 ## Redux
  - https://www.youtube.com/watch?v=5yEG6GhoJBs
- 
- ## Next js
+
+## Sample Project
+ - https://www.youtube.com/watch?v=DgRrrOt0Vr8
+   
+## Next js
  - https://www.youtube.com/watch?v=ZVnjOPwW4ZA
  - https://virtusa.udemy.com/course/nextjs-react-the-complete-guide/learn/lecture/41160682#overview
 
 ## Deployment
  - https://nextjs.org/docs/pages/building-your-application/deploying
+
 ## Debug
  - https://www.youtube.com/watch?v=UXDAp0ILOwg
