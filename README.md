@@ -66,26 +66,34 @@
 ### Context Hooks 
  - useContext
    - https://react.dev/reference/react/useContext
+   - https://www.youtube.com/watch?v=5LrDIWkK_Bc
 ### Ref Hooks 
  - useRef
    - https://react.dev/reference/react/useRef
+   - https://www.youtube.com/watch?v=t2ypzz6gJm0
  - useImperativeHandle
    - https://react.dev/reference/react/useImperativeHandle
+   - https://www.youtube.com/watch?v=zpEyAOkytkU
 ### Effect Hooks 
  - useEffect
    - https://react.dev/reference/react/useEffect
    - https://www.youtube.com/watch?v=0ZJgIjIuY7U
  - useLayoutEffect
    - https://react.dev/reference/react/useLayoutEffect
+   - https://www.youtube.com/watch?v=wU57kvYOxT4
  - useInsertionEffect
    - https://react.dev/reference/react/useInsertionEffect
+   - https://www.youtube.com/watch?v=6Z6ABiqNv6o
 ### Performance Hooks 
  - useMemo
    - https://react.dev/reference/react/useMemo
+   - https://www.youtube.com/watch?v=THL1OPn72vo
  - useCallback
    - https://react.dev/reference/react/useCallback
+   - https://www.youtube.com/watch?v=_AyFP5s69N4
  - useTransition
    - https://react.dev/reference/react/useTransition
+   - https://www.youtube.com/watch?v=N5R6NL3UE7I
  - useDeferredValue
    - https://react.dev/reference/react/useDeferredValue
 ### Resource Hooks 
