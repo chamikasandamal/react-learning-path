@@ -21,7 +21,9 @@
 
 ## What is nodejs
  - https://www.youtube.com/watch?v=uVwtVBpw7RQ
-
+## Editor setup
+ - https://react.dev/learn/editor-setup
+ - https://react.dev/learn/react-developer-tools
 ## Imports exports
  - https://www.youtube.com/watch?v=hY_6rYyniQM
 ## Functions
@@ -123,4 +125,6 @@
  - https://virtusa.udemy.com/course/nextjs-react-the-complete-guide/learn/lecture/41160682#overview
 
 ## Deployment
+ - https://nextjs.org/docs/pages/building-your-application/deploying
 ## Debug
+ - https://www.youtube.com/watch?v=UXDAp0ILOwg
